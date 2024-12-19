@@ -9,7 +9,7 @@ namespace _12.Week_Code_First_1.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseNpgsql("Host=localhost;Port=5432;Username=postgres;Password=postgres;Database=DbContexT");
+            optionsBuilder.UseNpgsql("Host=localhost;Port=5432;Username=postgres;Password=postgres;Database=PatikaCodeFirstDb1");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
