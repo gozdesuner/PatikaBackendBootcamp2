@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.Week_Code_First_1", "12.Week_Code_First_1\12.Week_Code_First_1.csproj", "{41940DC1-3D3E-429C-A275-3CB8B2597148}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12.Week_Code_First_1", "12.Week_Code_First_1\12.Week_Code_First_1.csproj", "{41940DC1-3D3E-429C-A275-3CB8B2597148}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.Week_Code_First_Relation", "12.Week_Code_First_Relation\12.Week_Code_First_Relation.csproj", "{DF0650B4-D983-4853-9CF2-CD2A8A6FDA60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12.Week_Code_First_Relation", "12.Week_Code_First_Relation\12.Week_Code_First_Relation.csproj", "{DF0650B4-D983-4853-9CF2-CD2A8A6FDA60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Survivor", "Survivor\Survivor.csproj", "{1982BCD2-E0EB-4818-B7B5-50DBFCBC911E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{DF0650B4-D983-4853-9CF2-CD2A8A6FDA60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF0650B4-D983-4853-9CF2-CD2A8A6FDA60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF0650B4-D983-4853-9CF2-CD2A8A6FDA60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1982BCD2-E0EB-4818-B7B5-50DBFCBC911E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1982BCD2-E0EB-4818-B7B5-50DBFCBC911E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1982BCD2-E0EB-4818-B7B5-50DBFCBC911E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1982BCD2-E0EB-4818-B7B5-50DBFCBC911E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
