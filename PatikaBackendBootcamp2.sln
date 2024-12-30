@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12.Week_Code_First_Relation
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Survivor", "Survivor\Survivor.csproj", "{1982BCD2-E0EB-4818-B7B5-50DBFCBC911E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.Week_Dependency_Injection_Example", "13.Week_Dependency_Injection_Example\13.Week_Dependency_Injection_Example.csproj", "{19D51CBE-C1BA-4650-89E7-B017163AF595}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13.Week_Dependency_Injection_Example", "13.Week_Dependency_Injection_Example\13.Week_Dependency_Injection_Example.csproj", "{19D51CBE-C1BA-4650-89E7-B017163AF595}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.Week_Identity.API", "14.Week_Identity.API\14.Week_Identity.API.csproj", "{3E629EB1-38E8-44B4-9436-C2043D701F74}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{19D51CBE-C1BA-4650-89E7-B017163AF595}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19D51CBE-C1BA-4650-89E7-B017163AF595}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19D51CBE-C1BA-4650-89E7-B017163AF595}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E629EB1-38E8-44B4-9436-C2043D701F74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E629EB1-38E8-44B4-9436-C2043D701F74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E629EB1-38E8-44B4-9436-C2043D701F74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E629EB1-38E8-44B4-9436-C2043D701F74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

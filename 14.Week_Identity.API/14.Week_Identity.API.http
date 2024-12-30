@@ -1,0 +1,6 @@
+@_14.Week_Identity.API_HostAddress = http://localhost:5146
+
+GET {{_14.Week_Identity.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
