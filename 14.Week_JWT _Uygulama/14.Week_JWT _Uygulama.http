@@ -1,0 +1,6 @@
+@_14.Week_JWT__Uygulama_HostAddress = http://localhost:5204
+
+GET {{_14.Week_JWT__Uygulama_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
